@@ -1,0 +1,26 @@
+body {background-color:#E89B8A;}
+.titulo{color: black;
+        font-size:xx-large;
+        text-align: center;
+        text-decoration: underline;}
+
+.ingredientes{color:black;
+              font-size: xx-large;
+              text-align: left;
+              text-decoration: underline;}
+
+.parrafo{font-size: large;}
+
+.link{font-size: xx-large;}
+
+.preparacion{background-color:#E89B8A;
+             text-decoration: underline;}
+
+.descrip{font-size: large;}
+
+.img{width: auto;
+     height: auto;}
+
+.video{font-size: xx-large;}
+
+.mapa{font-size: xx-large;}
